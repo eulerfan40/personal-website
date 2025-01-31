@@ -1,0 +1,15 @@
+h1 {
+    color:#061753;
+    font-family: Impact, serif;
+    font-weight: 200;
+    margin:50px;
+}
+p {
+    color: #112f9b;
+    font-family: Impact, serif;
+    margin:50px;
+}
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
