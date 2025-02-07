@@ -4,12 +4,24 @@ h1 {
     font-weight: 200;
     margin:50px;
 }
+h1.name {
+    color: #7ca5e2;
+    font-family: Mont;
+    font-size: large;
+}
+@font-face {
+    font-family: 'Mont';
+    src: url('fonts/Mont-HeavyDEMO.otf');
+}
 p {
     color: #112f9b;
     font-family: Impact, serif;
     margin:50px;
 }
 body {
-    background-color: aquamarine;
+    background-color: #365897;
     text-align: center;
+}
+img {
+    cursor:grab;
 }
